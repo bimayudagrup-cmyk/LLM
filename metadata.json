@@ -1,0 +1,6 @@
+{
+  "name": "Asesmen Profesional Indonesia",
+  "description": "LMS Lembaga Asesmen Profesional Indonesia - Sistem Manajemen Pembelajaran Terpadu dengan Fitur Sertifikasi, Live Class, Kuis Otomatis, dan Ujian Esai",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
